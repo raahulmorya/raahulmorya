@@ -25,7 +25,7 @@
 ### Circuit Design & IoT  
 - PCB Layout (Altium Designer, KiCAD)  
 - IoT Platforms (Sinric Pro, AWS IoT, ESP8266)
-
+- LTspice
 ---
 
 ## 🌟 Featured Projects  
