@@ -30,8 +30,10 @@
 ### Operating System
 - Windows
 - Linux (Fedora, Ubuntu and Kali)
-  
+
+### Robotics
 - ROS2
+- RViz
 
 ## 🌟 Featured Projects  
 
