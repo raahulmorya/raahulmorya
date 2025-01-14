@@ -1,5 +1,4 @@
- ## Screenshots
-  ![Work Desk](Desk.jpg)
+![Work Desk](Desk.jpg)
 # 👋 Hello, I'm Rahul Morya!  
 
 🎓 **Electronics Instrumentation and Control Engineering** student at Dr. B.R. Ambedkar National Institute of Technology(NIT), Jalandhar.  
