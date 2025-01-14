@@ -27,6 +27,11 @@
 - IoT Platforms (Sinric Pro, AWS IoT, ESP8266)
 - LTspice
 ---
+### Operating System
+- Windows
+- Linux (Fedora, Ubuntu and Kali)
+  
+- ROS2
 
 ## 🌟 Featured Projects  
 
