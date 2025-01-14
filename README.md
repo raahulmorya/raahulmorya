@@ -26,7 +26,7 @@
 - PCB Layout (Altium Designer, KiCAD)  
 - IoT Platforms (Sinric Pro, AWS IoT, ESP8266)
 - LTspice
----
+  
 ### Operating System
 - Windows
 - Linux (Fedora, Ubuntu and Kali)
@@ -34,6 +34,7 @@
 ### Robotics
 - ROS2
 - RViz
+---
 
 ## 🌟 Featured Projects  
 
