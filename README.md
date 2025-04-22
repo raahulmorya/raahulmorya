@@ -57,7 +57,7 @@ An IoT-based system using **Arduino** and **MQ3 Alcohol Sensor** to prevent drun
 
 ## 📚 Education  
 
-- **B. Tech in Instrumentation and Control Engineering**  
+- **B. Tech in Electronics Instrumentation**  
   Dr. B.R. Ambedkar National Institute of Technology, Jalandhar (CGPA: 7.56)  
 
 - **12th Grade**  
