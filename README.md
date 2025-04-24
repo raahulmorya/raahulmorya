@@ -1,7 +1,7 @@
 ![Work Desk](Desk.jpg)
 # 👋 Hello, I'm Rahul Morya!  
 
-🎓 **Electronics Instrumentation and Control Engineering** student at Dr. B.R. Ambedkar National Institute of Technology(NIT), Jalandhar.  
+🎓 **Electronics Instrumentation** student at Dr. B.R. Ambedkar National Institute of Technology(NIT), Jalandhar.  
 🔍 Passionate about **Embedded Systems**, **Drone/UAV**, **Robotics** and **Hardware Development**.  
 💻 A Web Developer and IoT Enthusiast with experience in developing innovative projects.  
 
