@@ -1,9 +1,10 @@
 ![Work Desk](Desk.jpg)
 # 👋 Hello, I'm Rahul Morya!  
 
-🎓 **Electronics Instrumentation** student at Dr. B.R. Ambedkar National Institute of Technology(NIT), Jalandhar.  
-🔍 Passionate about **Embedded Systems**, **Drone/UAV**, **Robotics** and **Hardware Development**.  
-💻 A Web Developer and IoT Enthusiast with experience in developing innovative projects.  
+🎓 **Electronics Instrumentation** student at Dr. B.R. Ambedkar National Institute of Technology **(NIT)**, Jalandhar
+🔍 Passionate about Embedded Systems, Drone/UAV, Robotics, and Hardware Development
+💻 Web Developer & IoT Enthusiast with experience in building innovative projects
+🛠️ Freelance Electronic Project Developer
 
 ---
 
@@ -17,7 +18,7 @@
 
 ### Embedded Systems  
 - Microcontroller Programming (Arduino, ESP32, STM32)  
-- RTOS: FreeRTOS, Zephyr  
+- RTOS: FreeRTOS  
 - Communication Protocols: I2C, SPI, UART, CAN  
 - Hardware Description Languages: Verilog  
 - Tools: Multimeter, Logic Analyzers, JTAG, SMD Rework Station  
@@ -58,13 +59,13 @@ An IoT-based system using **Arduino** and **MQ3 Alcohol Sensor** to prevent drun
 ## 📚 Education  
 
 - **B. Tech in Electronics Instrumentation**  
-  Dr. B.R. Ambedkar National Institute of Technology, Jalandhar (CGPA: 7.56)  
+  Dr. B.R. Ambedkar National Institute of Technology, Jalandhar (CGPA: 7.61)  
 
 - **12th Grade**  
-  Social Convent International School, Jalandhar (78.6%) - 1st Merit  
+  Social Convent International School, Jalandhar - 1st Merit  
 
 - **10th Grade**  
-  Social Convent International School, Jalandhar (89.3%)  - 1st Merit  
+  Social Convent International School, Jalandhar - 1st Merit  
 
 ---
 
