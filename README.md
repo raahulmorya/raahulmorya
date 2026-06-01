@@ -71,8 +71,7 @@ An IoT-based system using **Arduino** and **MQ3 Alcohol Sensor** to prevent drun
 
 ## 📫 Let's Connect!  
 
-- **Email**: raahulmorya@gmail.com  
-- **Phone**: +91-9478901150  
+- **Email**: raahulmorya@gmail.com 
 - **GitHub**: [github.com/raahulmorya](https://github.com/raahulmorya)  
 - **LinkedIn**: [linkedin.com/in/rahulmorya](https://www.linkedin.com/in/rahulmorya)  
 
